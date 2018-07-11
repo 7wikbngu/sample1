@@ -23,4 +23,6 @@ void main()
 	cout << "Numbers in ascending order : ";
 	for (i = 0; i < n; i++)cout << " "<<a[i];
 	cin >> i;
+	
+	cout << "Done" <<endl;
 }
